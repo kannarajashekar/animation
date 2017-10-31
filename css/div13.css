@@ -1,0 +1,42 @@
+.container{
+	width:1350px;
+	height:650px;
+}
+.box1{
+	width:100px;
+	height:650px;
+	border:2px solid black;
+}
+.box2{
+	width:640px;
+	height:100px;
+	border:2px solid black;
+	margin-left:120px;
+	margin-top:-655px;
+	float:left;
+}
+.box3{
+	width:310px;
+	height:450px;
+	border:2px solid black;
+	float:left;
+	margin-left:120px;
+	margin-top:-530px;
+}
+.box4{
+	width:310px;
+	height:450px;
+	border:2px solid black;
+	margin-top:-530px;
+	margin-left:450px;
+	float:left;
+}
+.box5{
+	width:640px;
+	height:50px;
+	border:2px solid black;
+	margin-top:-55px;
+	margin-left:120px;
+	float:left;
+
+}

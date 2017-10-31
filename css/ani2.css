@@ -1,0 +1,20 @@
+.first{
+   
+ 
+    
+	z-index:1;
+	position:absolute;
+	opacity:0.7;
+}
+
+
+
+input{
+   
+   height:40px;
+   width:600px;
+    margin-top:100px;
+	margin-left:100px;
+	z-index:2;
+	position:absolute;
+}

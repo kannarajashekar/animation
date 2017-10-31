@@ -1,0 +1,42 @@
+.box{
+	height:100px;
+	width:100px;
+	position:relative;
+	background-color:blue;
+	animation-name:move;
+	animation-duration:5s;
+	animation:move 5s linear infinite;
+	-webkit-animation:move 5s linear infinite;
+	float:left;
+	
+}
+.box1{
+	height:100px;
+	width:100px;
+	position:relative;
+	background-color:red;
+	animation-name:move1;
+	animation-duration:5s;
+	margin-left:50px;
+	animation:move1 5s linear infinite;
+	-webkit-animation:move1 5s linear infinite;
+	float:left;
+	
+}
+@keyframes move{
+	0%{background-color:blue; left:0px; top:0px;}
+	25%{background-color:red; left:500px; top:0px;}
+	50%{background-color:green; left:500px; top:200px;}
+	75%{background-color:black; left:0px; top:200px;}
+	100%{background-color:blue;left:0px; top:0px;}
+	
+}
+@keyframes move1{
+	0%{background-color:purple; left:0px; top:0px;}
+	25%{background-color:skyblue; left:200px; top:0px;}
+	50%{background-color:brown; left:200px; top:200px;}
+	75%{background-color:yellow; left:0px; top:200px;}
+	100%{background-color:purple;left:0px; top:0px;}
+	
+}
+	

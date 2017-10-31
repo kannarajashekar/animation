@@ -1,0 +1,25 @@
+.container{
+	width:600px;
+	height:300px;
+}
+.box1{
+	width:30px;
+	height:5px;
+	background-color:blue;
+	margin-left:10px;
+	float:left;
+}
+.box2{
+	width:30px;
+	height:5px;
+	background-color:green;
+	margin-left:10px;
+	float:left;
+}
+.box3{
+	width:30px;
+	height:5px;
+	background-color:red;
+	float:left;
+	margin-left:10px;
+}

@@ -1,0 +1,42 @@
+.container{
+	width:1000px;
+	height:300px;
+}
+.box1{
+	width:100px;
+	height:20px;
+	background-color: blue;
+	float:left;
+}
+.box2{
+	width:250px;
+	height:20px;
+	background-color:green;
+	float:left;
+}
+.box3{
+	width:100px;
+	height:20px;
+	background-color:yellow;
+	float:left;
+}
+.box4{
+	width:150;
+	height:20px;
+	background-color:brown;
+	float:left;
+}
+.box5{
+	width:100px;
+	height:20px;
+	background-color:yellow;
+	float:left;
+}
+.box6{
+	width:250px;
+	height:20px;
+	background-color:green;
+	float:left;
+}
+	
+	

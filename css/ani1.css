@@ -1,0 +1,25 @@
+.first{
+   
+    padding: 5px;
+    width: 1400px;
+	height: 700px;
+	z-index:2;
+	position:absolute;
+}
+
+.second {
+	position:absolute;
+	z-index:2;
+	margin-left:380px;
+	padding-top:300px;
+	animation: movee .9s;
+}
+
+@keyframes movee {
+  from {
+    transform:scale(0);
+  }
+  to {
+    transform:scale(1);
+  }
+}

@@ -1,0 +1,16 @@
+.container{
+	width:1200px;
+	height:1200px;
+}
+.box1{
+	width:100px;
+	height:150px;
+	margin-left:500px;
+	margin-right:400px;
+	margin-bottom:400px;
+	margin-top:300px;
+	border:2px solid black;
+}
+.p{
+	text-align:center;
+}

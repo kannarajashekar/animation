@@ -1,0 +1,24 @@
+.container{
+	width:600px;
+	height:300px;
+}
+.box1{
+	width:100px;
+	height:100px;
+	margin-left:50px;
+	float:left;border:2px dashed blue;
+}
+.box2{
+	width:100px;
+	height:100px;
+    border:2px dashed green;
+	margin-left:50px;
+	float:left;
+}
+.box3{
+	width:100px;
+	height:100px;
+	border:2px dashed red;
+	float:left;
+	margin-left:50px;
+}

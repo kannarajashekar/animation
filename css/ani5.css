@@ -1,0 +1,27 @@
+.gear{
+	width:300px;
+	height:300px;
+	margin:0px 0px 0px 0px;
+	-webkit-animation:ani1 4s linear infinite;
+	animation:ani1 4s linear infinite;
+	position:relative;
+}
+@keyframes ani1
+{
+	0%{transform:rotate(360deg)};
+	10%{transform:rotate(0deg)};
+}
+.gear1{
+	width:400px;
+	height:400px;
+	margin:0px 0px 0px 0px;
+	-webkit-animation:ani2 4s linear infinite;
+	animation:ani2 4s linear infinite;
+	position:relative;
+}
+@keyframes ani2
+{
+	0%{transform:rotate(5deg)};
+	20%{transform:rotate(360deg)};
+}
+

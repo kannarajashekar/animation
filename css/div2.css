@@ -1,0 +1,19 @@
+.container{
+	width:1300px;
+}
+.sub1{
+	width:630px;height:650px;
+	background-color:red;
+	float:left;
+	border:2px dashed black;
+	
+}
+	
+
+.sub2{
+	width:640px;
+	height:650px;
+	background-color:yellow;margin-left:20px;
+	float:left;border:2px dashed blue;
+	
+}
